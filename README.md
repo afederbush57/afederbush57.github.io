@@ -16,7 +16,8 @@ Here</a> to go to my favorite site</p>
 
 <p><strong>About Me</strong></p>
 
-<p>This is a new paragraph! <br /><br /></p>
+<p> Hey! My name is Alex Federbush and I'm currently enrolled as a freshman in the McCombs School of business. In my free time, I enjoy relaxing with my friends, being outdoors and traveling this beautiful country. I anticipate being a Finance major with a minor in Accounting.  
+  <br /><br /></p>
 
 </body>
 
