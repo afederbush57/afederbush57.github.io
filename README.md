@@ -1,8 +1,7 @@
 # afederbush57.github.io
 <p>&nbsp;</p>
 
-<center><img src= 
-             
+<center><img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi42-_xneXhAhWtna0KHRR2ALIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexander-federbush-97195b30&psig=AOvVaw0jB4HhstWWXWYD8OpkDzwz&ust=1556075168150615"
 width="265" height="266" align="BOTTOM" /></center><hr />
 
 <p style="text-align: center;"><a href="http://www.espn.com/">Click
