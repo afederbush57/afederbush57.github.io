@@ -11,7 +11,7 @@ Here</a> to go to my favorite site</p>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "Light Green">
+<body bgcolor ="Light Green">
 
 <p><strong>About Me</strong></p>
 
