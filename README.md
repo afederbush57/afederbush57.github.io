@@ -12,7 +12,7 @@ Here</a> to go to my favorite site</p>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
-<body bgcolor = "rgba(221, 17, 68, 1)">
+<body bgcolor = "Green">
 
 <p><strong>About Me</strong></p>
 
