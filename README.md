@@ -1,4 +1,5 @@
-# afederbush57.github.io
+
+<h1 style="text-align: center;">My name is Alex Federbush</h1>
 <p>&nbsp;</p>
 
 <center><img src= "https://github.com/afederbush57/afederbush57.github.io/blob/master/alex%20photo.jpg"
