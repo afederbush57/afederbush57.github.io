@@ -10,8 +10,6 @@ width="265" height="266" align="BOTTOM" /></center><hr />
 <p style="text-align: center;"><a href="http://www.espn.com/">Click
 Here</a> to go to my favorite site</p>
 
-<h2 style="text-align: center;">Welcome to my site!</h2>
-
 <body bgcolor = "lightgreen">
 
 <p><strong>About Me</strong></p>
