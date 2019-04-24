@@ -1,6 +1,7 @@
 
 <h1 style="text-align: center;">My name is Alex Federbush</h1>
 <p>&nbsp;</p>
+
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
 <center><img src= "https://github.com/afederbush57/afederbush57.github.io/blob/master/alex%20photo.jpg"
