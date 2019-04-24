@@ -2,13 +2,13 @@
 <h1 style="text-align: center;">My name is Alex Federbush</h1>
 <p>&nbsp;</p>
 
+<h2 style="text-align: center;">Welcome to my site!</h2>
+
 <center><img src= "https://github.com/afederbush57/afederbush57.github.io/blob/master/alex%20photo.jpg"
 width="265" height="266" align="BOTTOM" /></center><hr />
 
 <p style="text-align: center;"><a href="http://www.espn.com/">Click
 Here</a> to go to my favorite site</p>
-
-<h1 style="text-align: center;">My name is Alex Federbush</h1>
 
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
