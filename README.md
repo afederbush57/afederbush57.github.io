@@ -1,7 +1,7 @@
 # afederbush57.github.io
 <p>&nbsp;</p>
 
-<center><img src="https://www.facebook.com/photo.php?fbid=335286030595386&set=t.100023419750441&type=3&size=960%2C720" 
+<center><img src= "https://github.com/afederbush57/afederbush57.github.io/blob/master/alex%20photo.jpg"
 width="265" height="266" align="BOTTOM" /></center><hr />
 
 <p style="text-align: center;"><a href="http://www.espn.com/">Click
